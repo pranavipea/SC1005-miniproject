@@ -4,6 +4,7 @@ Fake News Detection
 It is notable that fake news can be detected in large datasets of news articles by identifying patterns such as use of emotionally charged language, logical inconsistencies that are indicative of false information. Natural language processing techniques can be employed to analyse textual content. Since Machine Learning models are not foolproof, it is crucial to continuously evaluate and refine these models to reduce the number of false positives and false negatives. Seeing the negative consequences of fake news, this made us ponder which model would be the best to detect it.
 
 These are the sections of the uploaded code:
+
 1. Data Pre-Processing
   a) Changing the fake and real labels to 1 and 0 respectively 
   b) Checking for any null data
