@@ -26,3 +26,9 @@ These are the sections of the uploaded code:
   b) Multinomial Naive Bayes
   c) Decision Tree Classifier
 
+Inspired by codes from:
+1. https://github.com/vibhorag101/Fake-News-Detection/blob/main/FakeNewsDetectionModel.ipynb
+2. https://github.com/Shaguns26/Fake-News-Detection/blob/master/Fake%20News%20Detection%20Naive%20Bayes%20Model.ipynb
+3. Dataset from: https://www.geeksforgeeks.org/passive-aggressive-classifiers/
+4. https://youtu.be/nacLBdyG6jE 
+5. https://scikit-learn.org/stable/ 
