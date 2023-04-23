@@ -7,6 +7,7 @@ These are the sections of the uploaded code:
 1. Data Pre-Processing
   a) Changing the fake and real labels to 1 and 0 respectively 
   b) Checking for any null data
+
 2. Data Processing
   a) Stemming: Reducing the word to the root form for the title data
   b) Processing the Text Data:removing punctation and stopwords (fillers)
@@ -14,10 +15,12 @@ These are the sections of the uploaded code:
   d) Removing unnecessary punctutations
   e) Tokenising the Text Data: reducing the data to recognisable and usable tokens
   f) Vectorising the Data using TF-IDF and Bag-of-Words (BOW) method
+
 3. Training Data
   a) Reshape the label data
   b) Create two new datasets with vectorised TF-IDF and BoW data
   c) Split into training, validation and testing data
+
 4. Models
   a) Logistic Regression
   b) Multinomial Naive Bayes
